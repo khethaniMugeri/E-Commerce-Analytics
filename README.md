@@ -159,7 +159,7 @@ E-Commerce-Analytics/
 │   └── E-Commerce_Analytics.pbix     # Power BI dashboard file
 │
 ├── Data/
-│   └── online_shopping_train.csv     # Dataset used in the project
+│   └── online_shopping.csv     # Dataset used in the project
 │
 └── README.md                         # Project documentation
 ```
