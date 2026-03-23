@@ -213,17 +213,17 @@ Deeper behavioural insights:
 
 ## 🔍 Key Findings
 
-- Only **15.33%** of visitors make a purchase — 84.67% leave without buying
-- **November** is the highest purchasing month — likely driven by Black Friday
+- Only **15.33%** of visitors make a purchase and 84.67% leave without buying
+- **November** is the highest purchasing month, likely driven by Black Friday
 - **New visitors** convert at a higher rate (~24%) than returning visitors (~14%)
 - **Buyers spend 31 minutes** on the site vs 18 minutes for non-buyers
 - Visitors who view **10 or products** are significantly more likely to purchase
-- **Low exit rate** visitors convert at nearly 28% — high exit rate visitors rarely buy
-- **74% of purchases** happen on weekdays — n
-- Conversion rate is **highest on normal days** (SpecialDay = 0) — proximity to special days does not improve conversion
+- **Low exit rate** visitors convert at nearly 28% —and high exit rate visitors rarely buy
+- **74% of purchases** happen on weekdays 
+- Conversion rate is **highest on normal days** (SpecialDay = 0) thus proximity to special days does not improve conversion
 - Visitore who use browser 5 and 10 are more likely to purchase
 - Visitors who use operating system 2 and 4 are more likely purchase
-- Visitors who read 10 or informational pages convert at 40% vs only 13% for those who read none
+- Visitors who read 10 or more informational pages convert at 40% vs only 13% for those who read none
 ---
 
 ## 🗄️ SQL Highlights
@@ -302,7 +302,7 @@ FROM EcommerceAnalytics_dat WHERE Revenue = 0;
 **Khethani Mugeri**
 
 - 📧 Connect with me on LinkedIn
-- 🌐 Portfolio Website *(coming soon)*
+- 🌐 Portfolio Website 
 
 ---
 
