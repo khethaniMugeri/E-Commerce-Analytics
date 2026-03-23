@@ -1,5 +1,4 @@
-# E-Commerce-Analytics
-E-Commerce Analytics Dashboard using SQL and Power BI
+
 # 🛒 E-Commerce Analytics Dashboard (SQL + Power BI)
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
