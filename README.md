@@ -135,15 +135,11 @@ The dataset contains numerical and Catergorical  features which are :
 
 - What is the overall conversion rate of the website?
 - Which months gives the most purchases?
--  Do people mostly complete the transaction on Weekends or Weekdays?
 - Who buys more between the different types of website  visitors?
 - Does viewing more products increase the likelihood of buying?
-- Which browsers and operating systems have the highest conversion rates?
-- Do buyers spend more time on the website than non-buyers?
 - Does proximity to special days affect purchasing behaviour?
 - Are purchases more likely on weekdays or weekends?
 - Do visitors who read more Informational pages buy more?
-- Purchase probability by month and visitor type
 
 ---
 
@@ -176,52 +172,16 @@ E-Commerce-Analytics/
 | Power Query | Data transformation and type corrections |
 
 ---
-
-## 📊 Dashboard Pages
-
-### Page 1 — Overview
-High level summary of key metrics:
-- Total Visitors (8,000)
-- Conversion Rate (15.33%)
-- Purchases by Month (bar chart)
-- Weekend vs Weekday Purchases (donut chart)
-- Buyers vs Non-Buyers breakdown (donut chart)
-
-### Page 2 — Website Visitor Behaviour
-Deep dive into how different visitors interact with the site:
-- Conversion Rate by Visitor Type
-- Product Engagement vs Conversion Rate
-- Purchase Probability Heatmap by Month and Visitor Type
-- Customer Purchase Journey Funnel
-
-### Page 3 — Device Performance
-Analysis of how device and browser choice affects purchasing:
-- Conversion Rate by Browser (treemap)
-- Conversion Rate by Operating System (donut chart)
-- Average Page Value: Buyers vs Non-Buyers
-- Average Time Spent on Site in Minutes (buyers vs non-buyers)
-
-### Page 4 — Product & Behavioural Analytics
-Deeper behavioural insights:
-- Special Day Effect on Conversion Rate (line chart)
-- Exit Rate vs Conversion Rate
-- Product Engagement vs Conversion Rate
-- Purchases by Product Engagement Level (donut chart)
-
 ---
-
 ## 🔍 Key Findings
 
 - Only **15.33%** of visitors make a purchase and 84.67% leave without buying
 - **November** is the highest purchasing month, likely driven by Black Friday
 - **New visitors** convert at a higher rate (~24%) than returning visitors (~14%)
-- **Buyers spend 31 minutes** on the site vs 18 minutes for non-buyers
+- **Buyers spend 36 minutes** on the site vs 20 minutes for non-buyers
 - Visitors who view **10 or products** are significantly more likely to purchase
 - **Low exit rate** visitors convert at nearly 28% —and high exit rate visitors rarely buy
-- **74% of purchases** happen on weekdays 
 - Conversion rate is **highest on normal days** (SpecialDay = 0) thus proximity to special days does not improve conversion
-- Visitore who use browser 5 and 10 are more likely to purchase
-- Visitors who use operating system 2 and 4 are more likely purchase
 - Visitors who read 10 or more informational pages convert at 40% vs only 13% for those who read none
 ---
 
